@@ -1,0 +1,9 @@
+.git
+.github
+target
+
+.dockerignore
+.gitignore
+Dockerfile
+
+.DS_Store
